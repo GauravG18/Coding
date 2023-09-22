@@ -1,0 +1,1 @@
+ // int end = Math.min(start + length, original.length());
